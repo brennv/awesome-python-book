@@ -1,0 +1,5 @@
+-r gists/testing/requirements.txt
+-r tests/requirements.txt
+
+# Python 2
+future == 0.16.0
