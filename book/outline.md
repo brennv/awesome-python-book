@@ -1,0 +1,36 @@
+# Outline
+
+- Attributions
+- Intro
+  - What is awesome Python
+- Core
+  - Whats new in Python
+  - Formatted string literals
+- Data engineering
+  - Pandas
+- Data science
+  - Tensorflow
+- Web
+  - Flask
+- APIs
+  - Flask
+  - APIStar
+- Audio
+  - pydub
+- Voice
+  - Alexa
+  - AssemblyAI
+- Video
+- Games
+- Desktop
+- Chatbots
+- Devops
+  - Ansible
+- Testing
+  - pytest
+  - pytest modules
+    - pytest-cov
+    - instafail
+  - tox
+- Closing
+  - Whats on the horizon for Python
